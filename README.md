@@ -1,4 +1,4 @@
-# blango
+# Advanced Django: Mastering Django and Django Rest Framework Specialization
 
 ---
 
@@ -7,7 +7,21 @@ Advanced Django: Mastering Django and Django Rest Framework Specialization: <br>
 1. Advanced Django: Building a Blog  <br>  https://www.coursera.org/learn/codio-advanced-django-building-blog?specialization=codio-advanced-django-and-django-rest-framework <br>
 2. Advanced Django: Introduction to Django Rest Framework <br>  https://www.coursera.org/learn/codio-advanced-django-intro-drf?specialization=codio-advanced-django-and-django-rest-framework   <br>
 3. Advanced Django: Advanced Django Rest Framework <br>  https://www.coursera.org/learn/codio-advanced-django-advanced-drf?specialization=codio-advanced-django-and-django-rest-framework <br>
+4. Advanced Django: External APIs and Task Queuing  <br> https://www.coursera.org/learn/codio-advanced-django-external-apis-task-queuing?specialization=codio-advanced-django-and-django-rest-framework <br>
 
+
+---
+
+## 01-Advanced-Django-Mastering-Django-Specialization-Courses-01-to-03 
+This repository contains the assignments for the first three courses: <br>
+- Advanced Django: Building a Blog <br>
+- Advanced Django: Introduction to Django Rest Framework <br>
+- Advanced Django: Advanced Django Rest Framework <br>
+
+
+## 02-Advanced-Django-Mastering-Django-Specialization-Course-04 
+This repository contains the assignments for the fourth and last course: <br>
+- Advanced Django: External APIs and Task Queuing
 
 ---
 
@@ -102,9 +116,25 @@ Optimize code performance using caching, throttling, and filtering
 Use a 3rd Party library
 Integrate with common Frontends
 
-
 ---
 
+## What you'll learn (4. Advanced Django: External APIs and Task Queuing) :
+- Connecting to external APIs
+- Implement task queuing (Schedule tasks with Celery and Redis)
+- Leverage various Django skills to create portfolio-quality projects
+- Get and parse content from an API with the Requests library
+- Use the OMDb API to fetch information about movies
+- Generate a GitHub access token and integrate it with Django to query GitHub
+- Implementig Celery - task queue, register celery task for asynchronous tasks
+- Signals, asynchronous signals, custom signals
+- Create a periodic task with Celery
+- Celery Beat - Schedule tasks that run on an interval or on a specified date/time
+
+
+The modules in this course cover connecting to external APIs, task queuing, and pulling together the topics across the specialization in capstone projects.
+
+
+---
 
 
 Skills:
