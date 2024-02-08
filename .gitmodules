@@ -1,0 +1,6 @@
+[submodule "01-Advanced-Django-Mastering-Django-Specialization-Courses-01-to-03"]
+	path = 01-Advanced-Django-Mastering-Django-Specialization-Courses-01-to-03
+	url = https://github.com/artursniegowski/blango.git
+[submodule "02-Advanced-Django-Mastering-Django-Specialization-Course-04"]
+	path = 02-Advanced-Django-Mastering-Django-Specialization-Course-04
+	url = https://github.com/artursniegowski/course4_proj.git
